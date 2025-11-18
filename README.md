@@ -108,6 +108,6 @@ git remote add origin https://github.com/<username>/<repo>.git
 git push -u origin main
 ```
 
-📝 License
+# 📝 License
 
 MIT License
